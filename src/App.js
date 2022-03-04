@@ -4,7 +4,7 @@ import searchIcon from "./search.svg";
 import Moviecard from "./MovieCard";
 // 693ace1a
 
-const API_URL = "https://www.omdbapi.com?apikey=693ace1a";
+const API_URL = "https://www.omdbapi.com?apikey=Your api key";
 
 const movie1 = {
   Title: "Superman, Spiderman or Batman",
